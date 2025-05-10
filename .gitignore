@@ -1,0 +1,13 @@
+# Ruby
+.bundle
+log/*
+tmp/*
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Other common files
+*.DS_Store
